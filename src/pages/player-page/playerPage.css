@@ -1,0 +1,9 @@
+.player-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    place-items: center;
+    height: 100vh;
+    background-color: #191414;
+    color:white;
+}
